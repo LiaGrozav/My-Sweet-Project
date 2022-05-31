@@ -4,10 +4,10 @@
 
  ## Table of Contents:
 
-- [Supported Operating System](##Supported-Operating-System:)
-- [Install in Linux](##1.-Linux:).
-- [Install in Windows](##Windows).
-- [Resources](##Resources).
+- [Supported Operating System](https://github.com/LiaGrozav/My-Sweet-Project#supported-operating-system)
+- [Install in Linux](https://github.com/LiaGrozav/My-Sweet-Project#1-linux).
+- [Install in Windows](https://github.com/LiaGrozav/My-Sweet-Project#windows).
+- [Resources](https://github.com/LiaGrozav/My-Sweet-Project#resources).
 
  ## Supported Operating System:
 
