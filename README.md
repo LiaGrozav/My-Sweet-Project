@@ -16,7 +16,7 @@
 - [x] IOS.
 - [ ] Android.
 
-#### 1. Linux:
+## 1. Linux:
 First take a look at the official website of [my Project](https://github.com/) for updates. To install this Project on Ubuntu, follow this steps:
 
 ##### 1. Update the System packages.
